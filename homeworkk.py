@@ -212,6 +212,7 @@ with open("py.txt","w") as f:
 	f.write(json)
 
 #task9
+import json
 import os
 import requests
 import time
